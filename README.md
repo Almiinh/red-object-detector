@@ -1,5 +1,6 @@
-# red_object_detector
+# computer-vision
 Script to detect red object on webcam
+Script to detect motion on webcam
 
 ## Install
 
