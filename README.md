@@ -1,6 +1,9 @@
 # computer-vision
-Script to detect red object on webcam
-Script to detect motion on webcam
+1. A simple script to detect red object on webcam
+
+![Detection of major shades of red](SHOWME.png)
+
+2. A simple script to detect motion on webcam
 
 ## Install
 
